@@ -10,7 +10,7 @@ Requires 75t, or modifications (removing some TLPs)
 
     bit [31:0] rom_0030 [0:2678];
 
-The windows driver is not working that great for me, someone else might have better luck with it.
+The windows driver is not working that great, someone else might have better luck with it.
 
 I intended to get it fully working before I released it, but it was giving me too much issues... 
 
@@ -19,3 +19,7 @@ Special thanks to:
 Shockazulu, for giving great advice
 Crumpette, testing and sharing knowledge
 Clincy, moral support and test runs
+
+###### BAR sizes
+![image](https://github.com/user-attachments/assets/bf66c5a9-d078-483f-b257-c16b0f217873)
+
