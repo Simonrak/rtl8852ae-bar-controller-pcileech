@@ -1,5 +1,7 @@
 # rtl8852ae-bar-controller-pcileech
 
+NOTE: this is not a recommended way of manually doing your rom layout, I generated this with a script I specifically made for the purpose of this device. 
+   
     393 Addresses
     5582 TLPs
     ~22000 luts  
