@@ -21,9 +21,11 @@ I intended to get it fully working before I released it, but it was giving me to
 
 Special thanks to:
 
-Shockazulu, for giving great advice
-Crumpette, testing and sharing knowledge
-Clincy, moral support and test runs
+[Shockazulu](https://github.com/Shocka-Zulu), for giving great advice
+ 
+[Crumpette](https://github.com/Crump3tte), testing and sharing knowledge
+ 
+[Clincy](https://github.com/clincyjones), moral support and test runs
 
 ###### BAR sizes
 ![image](https://github.com/user-attachments/assets/bf66c5a9-d078-483f-b257-c16b0f217873)
