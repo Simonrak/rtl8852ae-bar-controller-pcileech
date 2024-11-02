@@ -1,6 +1,6 @@
 # rtl8852ae-bar-controller-pcileech
 
-NOTE: this is not a recommended way of manually doing your rom layout, I generated this with a script I specifically made for the purpose of this device. 
+## NOTE: this is not a recommended way of manually doing your rom layout, I generated this with a script I specifically made for the purpose of this device. 
    
     393 Addresses
     5582 TLPs
@@ -13,6 +13,9 @@ Requires 75t, or modifications (removing some TLPs)
     bit [31:0] rom_0030 [0:2678];
 
 The windows driver is not working that great, someone else might have better luck with it.
+
+If you're interested in trying it yourself, you could try with different versions of the driver:
+                 https://www.catalog.update.microsoft.com/Search.aspx?q=RTL8852AE
 
 I intended to get it fully working before I released it, but it was giving me too much issues... 
 
